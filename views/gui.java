@@ -9,7 +9,7 @@ public class gui {
     private static String inputValue;
     private static JLabel label;
 
-    public gui(){
+    public gui() {
         JFrame frame = new JFrame("Java GUI Example");
         frame.setSize(400, 300);
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
@@ -33,7 +33,7 @@ public class gui {
         button.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
-                inputValue = textField.getText();
+                inputValue = (textField.getText());
                 controlG.Connect();
             }
         });
@@ -42,6 +42,8 @@ public class gui {
     }
 
     public static void showText(String text) {
+        // System.out.println(text);
+        label.setText("");
         label.setText("Output: " + text);
     }
 
@@ -49,6 +51,4 @@ public class gui {
         return inputValue;
     }
 
-    public class main {
-    }
 }
