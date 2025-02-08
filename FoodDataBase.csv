@@ -1,0 +1,50 @@
+ID,Name,Type,Expiration Date
+100001,Salmon,Fresh Food,25/11/2027
+100002,Beef,Fresh Food,27/8/2024
+100003,Pork,Fresh Food,24/5/2028
+100004,Chicken,Fresh Food,21/8/2026
+100005,Shrimp,Fresh Food,28/4/2015
+100006,Squid,Fresh Food,28/4/2016
+100007,Chinese Cabbage,Fresh Food,29/5/2029
+100008,Carrot,Fresh Food,6/8/2021
+100009,Morning Glory,Fresh Food,26/3/2027
+100010,Spring Onion,Fresh Food,7/3/2030
+100011,Pickled Mustard Greens,Preserved Food,22/11/2026
+100012,Salted Egg,Preserved Food,11/5/2028
+100013,Fermented Crab,Preserved Food,21/1/2027
+100014,Fermented Fish,Preserved Food,7/9/2029
+100015,Pickled Mango,Preserved Food,26/7/2029
+100016,Pickled Radish,Preserved Food,4/8/2025
+100017,Kimchi,Preserved Food,27/8/2025
+100018,Fermented Bean Curd,Preserved Food,4/10/2030
+100019,Pickled Garlic,Preserved Food,20/6/2027
+100020,Pickled Bamboo Shoots,Preserved Food,31/1/2022
+100021,Canned Fish,Canned Food,10/3/2016
+100022,Canned Red Beans,Canned Food,26/9/2019
+100023,Canned Sweet Corn,Canned Food,10/7/2021
+100024,Canned Corn Soup,Canned Food,17/9/2021
+100025,Canned Pineapple,Canned Food,24/9/2024
+100026,Canned Peach,Canned Food,3/6/2028
+100027,Canned Tuna,Canned Food,4/4/2015
+100028,Canned Spaghetti Sauce,Canned Food,29/10/2021
+100029,Canned Tomato,Canned Food,6/9/2019
+100030,Canned Meat,Canned Food,27/10/2021
+100031,Fresh Trout,Fresh Food,31/5/2015
+100032,Fresh Mussels,Fresh Food,10/10/2029
+100033,Fresh Eggs,Fresh Food,19/7/2019
+100034,Coriander,Fresh Food,30/1/2029
+100035,Shallots,Fresh Food,20/12/2016
+100036,Fresh Pumpkin,Fresh Food,15/10/2022
+100037,Fresh Radish,Fresh Food,13/6/2020
+100038,Green Chili Dip,Preserved Food,30/12/2021
+100039,Shrimp Paste,Preserved Food,29/8/2025
+100040,Fish Sauce,Preserved Food,28/4/2027
+100041,Soy Sauce,Preserved Food,27/12/2019
+100042,Chili Paste,Preserved Food,14/11/2018
+100043,Strawberry Jam,Preserved Food,29/3/2028
+100044,Oyster Sauce,Preserved Food,13/6/2019
+100045,Canned Condensed Milk,Canned Food,30/1/2029
+100046,Canned Soft Drink,Canned Food,23/11/2015
+100047,Canned Coffee,Canned Food,25/4/2025
+100048,Canned Mushroom Soup,Canned Food,17/11/2030
+100049,Frozen Fish Balls,Preserved Food,27/12/2023
