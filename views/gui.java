@@ -9,7 +9,7 @@ public class gui {
     private static String inputValue;
     private static JLabel label;
 
-    public static void main(String[] args) {
+    public gui(){
         JFrame frame = new JFrame("Java GUI Example");
         frame.setSize(400, 300);
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
@@ -47,5 +47,8 @@ public class gui {
 
     public static String getInputValue() {
         return inputValue;
+    }
+
+    public class main {
     }
 }
